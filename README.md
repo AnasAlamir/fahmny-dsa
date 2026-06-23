@@ -1,10 +1,10 @@
-# Fahimny DSA – Algorithm & Data Structure Visualization Platform
+# Fahmny DSA – Algorithm & Data Structure Visualization Platform
 
 **Domain:** EdTech, Algorithm Visualization, Dynamic Program Analysis, Artificial Intelligence
 
 ## Overview
 
-Fahimny DSA is an AI-powered educational platform that helps students and developers understand Data Structures and Algorithms through interactive, step-by-step visualizations generated directly from their own code.
+Fahmny DSA is an AI-powered educational platform that helps students and developers understand Data Structures and Algorithms through interactive, step-by-step visualizations generated directly from their own code.
 
 Users can write code in multiple programming languages, execute it, visualize its behavior line by line, inspect memory states, and explore high-level data structure representations generated through AI-assisted semantic analysis.
 
@@ -295,7 +295,7 @@ This challenge is referred to as the Semantic Gap.
 
 # Our Solution: Hybrid AI Pipeline
 
-To bridge the Semantic Gap while preserving tracing performance, Fahimny DSA employs a Hybrid AI Pipeline.
+To bridge the Semantic Gap while preserving tracing performance, Fahmny DSA employs a Hybrid AI Pipeline.
 
 ## Step 1: AI Semantic Analysis
 
@@ -407,7 +407,7 @@ This produces intuitive educational visualizations that closely match the progra
 
 Graduation Project – Faculty of Computers and Artificial Intelligence, Helwan University
 
-**Project Name:** Fahimny DSA
+**Project Name:** Fahmny DSA
 
 ## Team Members
 
