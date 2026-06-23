@@ -184,7 +184,6 @@ The Gateway acts as the central orchestration layer.
 Responsibilities include:
 
 * Authentication and authorization
-* User management
 * Saved visualization management
 * Service orchestration
 * Semantic enrichment
@@ -263,7 +262,6 @@ A Python list may represent:
 * Array
 * Stack
 * Queue
-* Heap
 
 Yet all appear identical in memory.
 
