@@ -411,4 +411,15 @@ Graduation Project – Faculty of Computers and Artificial Intelligence, Helwan 
 
 **Project Name:** Fahimny DSA
 
+## Team Members
+
+| Name                | Role               | GitHub                                             |
+| ------------------- | ------------------ | -------------------------------------------------- |
+| Anas Alamir         | Backend Developer  | [@AnasAlamir](https://github.com/AnasAlamir)       |
+| Islam hany          | Backend Developer  | [@MrR0B00T](https://github.com/MrR0B00T)           |
+| Khaled Karam        | Frontend Developer | [@khaledkaram510](https://github.com/khaledkaram510) |
+| Osama M. Sadieq     | Frontend Developer | [@Osama005](https://github.com/Osama005)           |
+| Abdelfatah Abdallah | AI Developer       | [@abdelfatah02](https://github.com/abdelfatah02)   |
+| Ziad Hesham         | AI Developer       | [@zozawyy](https://github.com/zozawyy)             |
+
 Transforming Code into Understanding.
