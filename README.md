@@ -17,7 +17,21 @@ The platform bridges the gap between source code and algorithm comprehension by 
 https://github.com/user-attachments/assets/0fa439bb-b391-43ec-8744-12b70278266d
 
 ---
+## 🛑 Repository Notice
 
+This repository serves as a public showcase for the project.
+
+The source code is maintained in a private repository.
+
+This repository contains:
+- Project overview
+- Architecture documentation
+- Technical design
+- Demo videos
+
+Source code is intentionally not public.
+
+---
 ## Key Features
 
 ### Multi-Language Support
